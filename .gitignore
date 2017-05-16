@@ -1,0 +1,12 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform
+
+# Test variables
+*.tfvars
+
+# Log files
+*.log
